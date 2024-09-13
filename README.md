@@ -8,7 +8,7 @@
 <!-- Profile Picture on the Right -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/2494763/file/original-52064d4757a74ff0b24d022da745efd.gif" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);"/>
 
-<h1 align="center" style="color: #f5f5f5; font-family: 'Arial', sans-serif; font-size: 36px; margin-top: 20px;">Hi 👋, I'm potfile0</h1>
+<h1 align="center" style="color: #f5f5f5; font-family: 'Arial', sans-serif; font-size: 36px; margin-top: 20px;">Hi 👋, I'm Sanskar</h1>
 <h3 align="center" style="color: #dddddd; font-size: 24px; margin-bottom: 20px;">Security Analyst & Ethical Hacking Enthusiast</h3>
 
 <p align="center">
@@ -32,20 +32,22 @@
 </div>
 
 <!-- TryHackMe Achievement Tab -->
-<div align="center" style="background-color: #2c2c2c; padding: 15px; border-radius: 10px; width: 80%; max-width: 600px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: flex; flex-direction: column; align-items: center;">
+<div align="center" style="background-color: #2c2c2c; padding: 20px; border-radius: 15px; width: 80%; max-width: 600px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://img.icons8.com/ios-filled/50/1e90ff/trophy.png" alt="trophy icon" style="width: 40px; height: 40px; margin-right: 10px;">
     <h3 style="color: #f5f5f5; font-family: 'Arial', sans-serif; margin: 0;">
-      **Top 15% on TryHackMe**
+      Top 15% on TryHackMe
     </h3>
   </div>
   <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
-    Check out my profile and achievements 
-    <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9tcGg1MXJvdzJreXJ3NWQ1eDNjbjVrZzFtZXVyZG9jb3A4emZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.webp" alt="TryHackMe profile icon" style="width: 30px; height: 30px; vertical-align: middle; border: none;"/>
+    Check out my profile and achievements on TryHackMe:
+    <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; display: flex; align-items: center; margin-top: 10px;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9tcGg1MXJvdzJreXJ3NWQ1eDNjbjVrZzFtZXVyZG9jb3A4emZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.webp" alt="TryHackMe profile icon" style="width: 30px; height: 30px; margin-right: 8px;">
+      View Profile
     </a>
   </p>
 </div>
+
 
 
 <h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" alt="tools"> Languages and Tools </h3>
