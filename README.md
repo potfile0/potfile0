@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  🚀 **Top 15% on TryHackMe**: Check out my profile and achievements [here](https://tryhackme.com/potfile0).
+  🚀 **Top 15% on TryHackMe**: Check out my profile and achievements [here](https://tryhackme.com/p/.pot).
 </p>
 
 <h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;">🔧 Skills & Tools</h3>
