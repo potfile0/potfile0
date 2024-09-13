@@ -32,15 +32,22 @@
 </div>
 
 <!-- TryHackMe Achievement Tab -->
-<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; width: 80%; max-width: 700px; margin: 20px auto; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); display: flex; align-items: center; justify-content: center; color: #f5f5f5;">
-  <img src="https://img.icons8.com/ios-filled/50/1e90ff/trophy.png" alt="trophy icon" style="width: 50px; height: 50px; margin-right: 15px;">
+<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; width: 80%; max-width: 700px; margin: 20px auto; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); display: flex; flex-direction: column; align-items: center; color: #f5f5f5;">
   <h3 style="font-family: 'Arial', sans-serif; font-size: 28px; margin: 0;">
+    <img src="https://img.icons8.com/ios-filled/50/1e90ff/trophy.png" alt="trophy icon" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 10px;">
     Top 15% on TryHackMe
   </h3>
-  <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9tcGg1MXJvdzJreXJ3NWQ1eDNjbjVrZzFtZXVyZG9jb3A4emZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.webp" alt="TryHackMe profile icon" style="width: 50px; height: 50px; border-radius: 50%; border: 2px solid #f5f5f5;"/>
+  <p style="font-size: 18px; margin: 10px 0; text-align: center;">
+    Check out my profile and achievements by clicking the image below!
+  </p>
+  <a href="https://tryhackme.com/p/.pot" target="_blank" rel="noopener noreferrer" style="border: 2px solid #f5f5f5; border-radius: 15px; padding: 10px; text-decoration: none; display: inline-block; transition: transform 0.3s;">
+    <img src="https://cdn.dribbble.com/userupload/2494763/file/original-52064d4757a74ff0b524d022da745efd.gif" alt="TryHackMe profile icon" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #f5f5f5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);"/>
   </a>
+  <p style="font-size: 16px; margin-top: 10px; color: #dcdcdc;">
+    Click on the image to visit my TryHackMe profile.
+  </p>
 </div>
+
 
 <!-- Languages and Tools Section -->
 <div align="center" style="background: linear-gradient(135deg, #444 0%, #666 100%); color: #f5f5f5; padding: 20px; border-radius: 15px; width: 80%; max-width: 700px; margin: 20px auto; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);">
