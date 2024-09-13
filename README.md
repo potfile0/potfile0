@@ -29,10 +29,18 @@
 </p>
 
 <!-- TryHackMe Achievement Tab -->
-<div align="center" style="background-color: #2c2c2c; padding: 15px; border-radius: 10px; width: 80%; max-width: 600px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-  <h3 style="color: #f5f5f5; font-family: 'Arial', sans-serif; margin: 0 0 10px 0;">
-    🚀 **Top 15% on TryHackMe**
-  </h3>
+<div align="center" style="background-color: #2c2c2c; padding: 15px; border-radius: 10px; width: 80%; max-width: 600px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/1e90ff/trophy.png" alt="trophy icon" style="width: 40px; height: 40px; margin-right: 10px;">
+    <h3 style="color: #f5f5f5; font-family: 'Arial', sans-serif; margin: 0;">
+      🚀 **Top 15% on TryHackMe**
+    </h3>
+  </div>
+  <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
+    Check out my profile and achievements <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold;">here</a>.
+  </p>
+</div>
+
   <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
     Check out my profile and achievements <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold;">here</a>.
   </p>
