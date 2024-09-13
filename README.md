@@ -1,6 +1,5 @@
-
 [![MasterHead](https://cdn.pfps.gg/banners/9147-dark-n-purple-sky-banner.gif)](https://potfile0.io)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/2494763/file/original-52064d4757a74ff0b524d022da745efd.gif".
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/2494763/file/original-52064d4757a74ff0b24d022da745efd.gif".
 <h1 align="center">Hi 👋, I'm potfile0</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
