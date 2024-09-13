@@ -41,7 +41,7 @@
   </div>
   <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
     Check out my profile and achievements on TryHackMe:
-    <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; display: flex; align-items: center; margin-top: 10px;">
+    <a href="https://tryhackme.com/p/.pot" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; display: flex; align-items: center; margin-top: 10px;">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9tcGg1MXJvdzJreXJ3NWQ1eDNjbjVrZzFtZXVyZG9jb3A4emZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.webp" alt="TryHackMe profile icon" style="width: 30px; height: 30px; margin-right: 8px;">
       View Profile
     </a>
@@ -69,5 +69,5 @@
 
 <h3 align="center">🔍 Fun Fact</h3>
 <p align="center">
-  🚀 Passionate about participating in CTFs and exploring new vulnerabilities. I thrive on turning theoretical knowledge into practical skills!
+  🕵️‍♂️  My passion lies in cracking codes and discovering vulnerabilities. Each challenge I tackle enhances my understanding and drives me to master new skills.
 </p>
