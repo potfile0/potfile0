@@ -28,9 +28,15 @@
   📄 **My Resume**: Still a work in progress — keep an eye out for updates!
 </p>
 
-<p align="center">
-  🚀 **Top 15% on TryHackMe**: Check out my profile and achievements [here](https://tryhackme.com/p/.pot).
-</p>
+<!-- TryHackMe Achievement Tab -->
+<div align="center" style="background-color: #2c2c2c; padding: 15px; border-radius: 10px; width: 80%; max-width: 600px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <h3 style="color: #f5f5f5; font-family: 'Arial', sans-serif; margin: 0 0 10px 0;">
+    🚀 **Top 15% on TryHackMe**
+  </h3>
+  <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
+    Check out my profile and achievements <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold;">here</a>.
+  </p>
+</div>
 
 <h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" alt="tools"> Languages and Tools </h3>
 
