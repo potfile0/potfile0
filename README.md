@@ -38,12 +38,11 @@
   </div>
   <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
     Check out my profile and achievements 
-    <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold;">
-      <img src="https://imgs.search.brave.com/c3HVmEjdZH9BOevbltB1S8Phj2ApCGxKkSlLR37l7Gk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RTFCQVFHdk1JdkNP/RGlic0EvY29tcGFu/eS1iYWNrZ3JvdW5k/XzEwMDAwLzAvMTY1/Nzc5Mjc4MzQzMi90/cnloYWNrbWVfY292/ZXI_ZT0yMTQ3NDgz/NjQ3JnY9YmV0YSZ0/PWlPS1lwMUxBd1RT/UDNhXzBnQmdJNlh4/WEtpNURPcjVHZGli/RWtXajVPdWc" alt="TryHackMe icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
+    <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9tcGg1MXJvdzJreXJ3NWQ1eDNjbjVrZzFtZXVyZG9jb3A4emZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.webp" alt="TryHackMe profile icon" style="width: 30px; height: 30px; vertical-align: middle; border: none;"/>
     </a>
   </p>
 </div>
-
 
 
 <h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" alt="tools"> Languages and Tools </h3>
