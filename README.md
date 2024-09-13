@@ -36,12 +36,8 @@
       🚀 **Top 15% on TryHackMe**
     </h3>
   </div>
-  <p style="color: #dcdcdc; font-size: 16px; margin: 0; display: flex; align-items: center;">
-    Check out my profile and achievements
-    <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold; display: flex; align-items: center; margin-left: 5px;">
-      <img src="https://img.icons8.com/ios-filled/50/1e90ff/linked.png" alt="TryHackMe icon" style="width: 20px; height: 20px; margin-left: 5px;">
-      <span style="margin-left: 5px;">TryHackMe Profile</span>
-    </a>
+  <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
+    Check out my profile and achievements <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold;">here</a>.
   </p>
 </div>
 
