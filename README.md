@@ -37,9 +37,13 @@
     </h3>
   </div>
   <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
-    Check out my profile and achievements <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold;">here</a>.
+    Check out my profile and achievements 
+    <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold;">
+      <img src="https://img.icons8.com/ios-filled/50/1e90ff/achievement.png" alt="TryHackMe icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
+    </a>
   </p>
 </div>
+
 
 
 <h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" alt="tools"> Languages and Tools </h3>
