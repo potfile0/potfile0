@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" alt="tools"> Languages and Tools
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNxbHJjZDVjMzBobmhkenptODg0cGFrcDgyYng0NHN2djI3MDFzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/se6QSoA9i3SnuqOBrm/giphy.webp" width="25" height="25" alt="tools"> About Me
 </h3>
 
 <p align="center">
