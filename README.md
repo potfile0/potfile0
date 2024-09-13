@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  🌱 **Currently Diving Into**: Penetration Testing, Web Assessment, AD Enumeration and Exploitation, and Incident Response.<br>
+  🌟 **Currently Explored**: Web Assessment, AD Enumeration and Exploitation, and Incident Response.<br>
   🌱 **I’m Currently Learning**: Bash, Web Enumeration and Exploitation, Python, Rust.<br>
-  📝 **Active in the World of Hacking**: Staying up-to-date with the latest news and vulnerability exposures.<br>
+  📝 **Engaged in Cybersecurity**: Staying up-to-date with the latest news and vulnerability exposures.<br>
   🕔 **In My Free Time**: I enjoy writing scripts, engaging in TryHackMe challenges, and participating in CTFs.<br>
   👨‍💻 **Future Study Plans**: Windows/Linux Privilege Escalation and Security Operations (SOC).<br>
   📄 **My Resume**: Still a work in progress — keep an eye out for updates!
