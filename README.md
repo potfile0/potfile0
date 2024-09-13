@@ -15,6 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=potfile0&label=Profile%20views&color=0e75b6&style=flat" alt="potfile0" />
 </p>
 
+<h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" alt="tools"> Languages and Tools
+</h3>
+
 <p align="center">
   🌟 **Currently Explored**: Web Assessment, AD Enumeration and Exploitation, and Incident Response.<br>
   🌱 **I’m Currently Learning**: Bash, Web Enumeration and Exploitation, Python, Rust.<br>
