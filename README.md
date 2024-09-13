@@ -18,7 +18,16 @@
 <p align="center">
   🌱 **Currently Diving Into**: Advanced Penetration Testing, Web Assessment, Malware Analysis, and Incident Response.<br>
   👯 **Open to Collaborations**: Eager to work on real-world security projects, internships, and Capture The Flag (CTF) challenges.<br>
-  📫 **Let’s Connect**: Reach out via **[Email](mailto:potfile0@example.com)**, connect with me on **[LinkedIn](https://linkedin.com/in/potfile0)**, or follow me on **[Twitter](https://twitter.com/potfile0)**.
+  📫 **Let’s Connect**: 
+  <a href="mailto:potfile0@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a> 
+  <a href="https://linkedin.com/in/potfile0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
+  <a href="https://twitter.com/potfile0">
+    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 <h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block;">🚀 About Me</h3>
