@@ -16,40 +16,27 @@
 </p>
 
 <p align="center">
-  🌱 **Currently Diving Into**: Advanced Penetration Testing, Web Assessment, Malware Analysis, and Incident Response.<br>
-  👯 **Open to Collaborations**: Eager to work on real-world security projects, internships, and Capture The Flag (CTF) challenges.<br>
-  📫 **Let’s Connect**: 
-  <a href="mailto:potfile0@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a> 
-  <a href="https://linkedin.com/in/potfile0">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
-  <a href="https://twitter.com/potfile0">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  🌱 **Currently Diving Into**: Penetration Testing, Web Assessment, AD Enumeration and Exploitation, and Incident Response.<br>
+  🌱 **I’m Currently Learning**: Bash, Web Enumeration and Exploitation, Python, Rust.<br>
+  📝 **Active in the World of Hacking**: Staying up-to-date with the latest news and vulnerability exposures.<br>
+  🕔 **In My Free Time**: I enjoy writing scripts, engaging in TryHackMe challenges, and participating in CTFs.<br>
+  👨‍💻 **Future Study Plans**: Windows/Linux Privilege Escalation and Security Operations (SOC).<br>
+  📄 **My Resume**: Still a work in progress — keep an eye out for updates!
 </p>
 
-<h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block;">🚀 About Me</h3>
-<p align="center" style="background-color: #222; color: #f5f5f5; padding: 15px; border-radius: 8px; max-width: 80%; margin: 0 auto;">
-  🌱 **I’m currently learning**: Python, Bash, Linux, Pen-Testing.<br>
-  👨‍💻 **All of my projects** are available [here](https://potfile0.io) :)<br>
-  📝 **I regularly blog** about hacking and The Hacker World!<br>
-  🕔 **In my free time**, I write scripts and Telegram bots.<br>
-  👨‍💻 **What I plan to study** in the future: Go, Ruby.<br>
-  📫 **How to reach me**: miton0030@gmail.com<br>
-  📄 **My resume**: Not yet :(
+<p align="center">
+  🚀 **Top 15% on TryHackMe**: Check out my profile and achievements [here](https://tryhackme.com/potfile0).
 </p>
 
-<h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block;">🔧 Skills & Tools</h3>
+<h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;">🔧 Skills & Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 </p>
 
-<h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block;">📈 GitHub Stats</h3>
+<h3 align="center" style="color: #f5f5f5; background-color: #333; padding: 10px; border-radius: 8px; display: inline-block; border: 2px solid #f5f5f5;">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=potfile0&show_icons=true&locale=en&layout=compact&theme=dark" alt="potfile0" />
   <img src="https://github-readme-stats.vercel.app/api?username=potfile0&show_icons=true&locale=en&theme=dark" alt="potfile0" />
