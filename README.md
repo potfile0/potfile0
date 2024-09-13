@@ -39,7 +39,7 @@
   <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
     Check out my profile and achievements 
     <a href="https://tryhackme.com/potfile0" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; text-decoration: none; font-weight: bold;">
-      <img src="https://img.icons8.com/ios-filled/50/1e90ff/achievement.png" alt="TryHackMe icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
+      <img src="https://imgs.search.brave.com/c3HVmEjdZH9BOevbltB1S8Phj2ApCGxKkSlLR37l7Gk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RTFCQVFHdk1JdkNP/RGlic0EvY29tcGFu/eS1iYWNrZ3JvdW5k/XzEwMDAwLzAvMTY1/Nzc5Mjc4MzQzMi90/cnloYWNrbWVfY292/ZXI_ZT0yMTQ3NDgz/NjQ3JnY9YmV0YSZ0/PWlPS1lwMUxBd1RT/UDNhXzBnQmdJNlh4/WEtpNURPcjVHZGli/RWtXajVPdWc" alt="TryHackMe icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
     </a>
   </p>
 </div>
