@@ -36,7 +36,7 @@
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://img.icons8.com/ios-filled/50/1e90ff/trophy.png" alt="trophy icon" style="width: 40px; height: 40px; margin-right: 10px;">
     <h3 style="color: #f5f5f5; font-family: 'Arial', sans-serif; margin: 0;">
-      Top 13% on TryHackMe
+      Top 12% on TryHackMe
     </h3>
   </div>
   <p style="color: #dcdcdc; font-size: 16px; margin: 0;">
