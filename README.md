@@ -9,7 +9,7 @@
 
 # Hey, I'm Sanskar 👋
 
-### Cybersecurity student trying to understand computers a little too deeply.
+### Cybersecurity student trying to understand computers.
 
 </div>
 
@@ -28,9 +28,7 @@ I’m also working toward **PNPT** and **CPTS**, while building the foundation I
 - breaking labs and figuring out why they broke
 - learning C, C#, Linux, assembly, and systems concepts
 - doing security labs and CTF-style practice
-- reading way too much into how software behaves in memory
-- occasionally disappearing into philosophy
-- trying to get better at cinematography without being scared to bring the camera outside 😭
+- reading into how software behaves in memory
 
 ---
 
@@ -48,10 +46,3 @@ I’m also working toward **PNPT** and **CPTS**, while building the foundation I
 
 ---
 
-### Outside the terminal
-
-Philosophy, cinematography, lifting, traveling, soccer, and finding mountains to climb.
-
----
-
-> Currently trying to become the kind of person who can look at a program, a process, or a binary and actually understand what the hell is happening.
